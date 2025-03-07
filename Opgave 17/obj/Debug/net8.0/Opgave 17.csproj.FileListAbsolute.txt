@@ -1,0 +1,14 @@
+C:\Users\pbaue\OneDrive\Desktop\Datamatiker start d. 03.02.25\Kode\Opgave 17\Opgave 17\bin\Debug\net8.0\Opgave 17.exe
+C:\Users\pbaue\OneDrive\Desktop\Datamatiker start d. 03.02.25\Kode\Opgave 17\Opgave 17\bin\Debug\net8.0\Opgave 17.deps.json
+C:\Users\pbaue\OneDrive\Desktop\Datamatiker start d. 03.02.25\Kode\Opgave 17\Opgave 17\bin\Debug\net8.0\Opgave 17.runtimeconfig.json
+C:\Users\pbaue\OneDrive\Desktop\Datamatiker start d. 03.02.25\Kode\Opgave 17\Opgave 17\bin\Debug\net8.0\Opgave 17.dll
+C:\Users\pbaue\OneDrive\Desktop\Datamatiker start d. 03.02.25\Kode\Opgave 17\Opgave 17\bin\Debug\net8.0\Opgave 17.pdb
+C:\Users\pbaue\OneDrive\Desktop\Datamatiker start d. 03.02.25\Kode\Opgave 17\Opgave 17\obj\Debug\net8.0\Opgave 17.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pbaue\OneDrive\Desktop\Datamatiker start d. 03.02.25\Kode\Opgave 17\Opgave 17\obj\Debug\net8.0\Opgave 17.AssemblyInfoInputs.cache
+C:\Users\pbaue\OneDrive\Desktop\Datamatiker start d. 03.02.25\Kode\Opgave 17\Opgave 17\obj\Debug\net8.0\Opgave 17.AssemblyInfo.cs
+C:\Users\pbaue\OneDrive\Desktop\Datamatiker start d. 03.02.25\Kode\Opgave 17\Opgave 17\obj\Debug\net8.0\Opgave 17.csproj.CoreCompileInputs.cache
+C:\Users\pbaue\OneDrive\Desktop\Datamatiker start d. 03.02.25\Kode\Opgave 17\Opgave 17\obj\Debug\net8.0\Opgave 17.dll
+C:\Users\pbaue\OneDrive\Desktop\Datamatiker start d. 03.02.25\Kode\Opgave 17\Opgave 17\obj\Debug\net8.0\refint\Opgave 17.dll
+C:\Users\pbaue\OneDrive\Desktop\Datamatiker start d. 03.02.25\Kode\Opgave 17\Opgave 17\obj\Debug\net8.0\Opgave 17.pdb
+C:\Users\pbaue\OneDrive\Desktop\Datamatiker start d. 03.02.25\Kode\Opgave 17\Opgave 17\obj\Debug\net8.0\Opgave 17.genruntimeconfig.cache
+C:\Users\pbaue\OneDrive\Desktop\Datamatiker start d. 03.02.25\Kode\Opgave 17\Opgave 17\obj\Debug\net8.0\ref\Opgave 17.dll
