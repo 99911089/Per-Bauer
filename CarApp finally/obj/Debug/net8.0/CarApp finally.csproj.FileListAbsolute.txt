@@ -1,0 +1,14 @@
+C:\Users\pbaue\OneDrive\Desktop\Datamatiker start d. 03.02.25\Kode\CarApp finally\CarApp finally\bin\Debug\net8.0\CarApp finally.exe
+C:\Users\pbaue\OneDrive\Desktop\Datamatiker start d. 03.02.25\Kode\CarApp finally\CarApp finally\bin\Debug\net8.0\CarApp finally.deps.json
+C:\Users\pbaue\OneDrive\Desktop\Datamatiker start d. 03.02.25\Kode\CarApp finally\CarApp finally\bin\Debug\net8.0\CarApp finally.runtimeconfig.json
+C:\Users\pbaue\OneDrive\Desktop\Datamatiker start d. 03.02.25\Kode\CarApp finally\CarApp finally\bin\Debug\net8.0\CarApp finally.dll
+C:\Users\pbaue\OneDrive\Desktop\Datamatiker start d. 03.02.25\Kode\CarApp finally\CarApp finally\bin\Debug\net8.0\CarApp finally.pdb
+C:\Users\pbaue\OneDrive\Desktop\Datamatiker start d. 03.02.25\Kode\CarApp finally\CarApp finally\obj\Debug\net8.0\CarApp finally.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pbaue\OneDrive\Desktop\Datamatiker start d. 03.02.25\Kode\CarApp finally\CarApp finally\obj\Debug\net8.0\CarApp finally.AssemblyInfoInputs.cache
+C:\Users\pbaue\OneDrive\Desktop\Datamatiker start d. 03.02.25\Kode\CarApp finally\CarApp finally\obj\Debug\net8.0\CarApp finally.AssemblyInfo.cs
+C:\Users\pbaue\OneDrive\Desktop\Datamatiker start d. 03.02.25\Kode\CarApp finally\CarApp finally\obj\Debug\net8.0\CarApp finally.csproj.CoreCompileInputs.cache
+C:\Users\pbaue\OneDrive\Desktop\Datamatiker start d. 03.02.25\Kode\CarApp finally\CarApp finally\obj\Debug\net8.0\CarApp finally.dll
+C:\Users\pbaue\OneDrive\Desktop\Datamatiker start d. 03.02.25\Kode\CarApp finally\CarApp finally\obj\Debug\net8.0\refint\CarApp finally.dll
+C:\Users\pbaue\OneDrive\Desktop\Datamatiker start d. 03.02.25\Kode\CarApp finally\CarApp finally\obj\Debug\net8.0\CarApp finally.pdb
+C:\Users\pbaue\OneDrive\Desktop\Datamatiker start d. 03.02.25\Kode\CarApp finally\CarApp finally\obj\Debug\net8.0\CarApp finally.genruntimeconfig.cache
+C:\Users\pbaue\OneDrive\Desktop\Datamatiker start d. 03.02.25\Kode\CarApp finally\CarApp finally\obj\Debug\net8.0\ref\CarApp finally.dll
